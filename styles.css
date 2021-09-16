@@ -12,11 +12,10 @@
   list-style-type: none;
   margin: 0;
   padding: 0;
-  background-color: #dddddd;
-  border: 1px solid #555;
+  background-color: #333;
   width: 100%;
   position: fixed;
-  height: 16px;
+  overflow: hidden;
 }
 
 li a {
