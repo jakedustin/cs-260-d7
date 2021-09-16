@@ -45,5 +45,5 @@ li a:hover {
 }
 
 h1 h2 h3 {
-  padding-bottom: 16px;
+  border: 1px solid red;
 }
