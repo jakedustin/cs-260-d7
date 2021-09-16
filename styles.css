@@ -8,11 +8,6 @@
   padding: 20px;
 }
 
-.active {
-  background-color: #04AA6D;
-  color: white;
-}
-
 .menu {
   list-style-type: none;
   margin: 0;
@@ -48,4 +43,9 @@
   background-color: #555;
   color: white;
   text-decoration: none;
+}
+
+.active {
+  background-color: #04AA6D;
+  color: white;
 }
