@@ -17,18 +17,13 @@
   height: 100%; /* Full height */
   position: fixed; /* Make it stick, even on scroll */
   overflow: auto; /* Enable scrolling if the sidenav has too much content */
+  border: 1px solid #555;
 }
 
 .menu-item-container {
-  border: 1px solid #555;
   text-align: center;
-  border-botton: 1px solid #555;
   display: inline;
   float: left;
-}
-
-.menu-item-container:last-child {
-  border-bottom: none;
 }
 
 .menu-item {
