@@ -44,6 +44,6 @@ li a:hover {
   height: 40px;
 }
 
-h1 h2 h3 {
-  border: 1px solid red;
+.heading-space {
+  margin-bottom: 20px;
 }
