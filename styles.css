@@ -21,6 +21,10 @@
   background-color: #f1f1f1;
 }
 
+.menu-item-container {
+  border: 1px solid #555;
+}
+
 .menu-item {
   display: block;
   color: #000;
