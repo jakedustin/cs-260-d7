@@ -8,6 +8,11 @@
   padding: 20px;
 }
 
+.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
 .menu-items {
   list-style-type: none;
   margin: 0;
