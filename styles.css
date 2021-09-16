@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+.main-page {
+  margin: 20px;
+}
+
 .menu-items {
   list-style-type: none;
   margin: 0;
