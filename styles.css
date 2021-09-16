@@ -32,4 +32,5 @@
 .menu-item:hover {
   background-color: #555;
   color: white;
+  text-decoration: none;
 }
