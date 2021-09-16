@@ -20,10 +20,6 @@
   overflow: auto; /* Enable scrolling if the sidenav has too much content */
 }
 
-.menu-item {
-  display: inline;
-}
-
 li a {
   display: block;
   color: #000;
@@ -39,4 +35,8 @@ li a:hover {
 .active {
   background-color: #04AA6D;
   color: white;
+}
+
+.menu-item {
+  display: inline;
 }
