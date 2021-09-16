@@ -26,12 +26,12 @@ li a {
 }
 
 li a:hover {
-  background-color: #555;
+  background-color: #8F9EC8;
   color: white;
 }
 
 .active {
-  background-color: #04AA6D;
+  background-color: #D6C084;
   color: white;
 }
 
