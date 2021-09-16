@@ -23,6 +23,12 @@
 
 .menu-item-container {
   border: 1px solid #555;
+  text-align: center;
+  border-botton: 1px solid #555;
+}
+
+.menu-item-container:last-child {
+  border-bottom: none;
 }
 
 .menu-item {
