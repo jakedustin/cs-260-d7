@@ -43,3 +43,7 @@ li a:hover {
   width: 100%;
   height: 40px;
 }
+
+h1 h2 h3 {
+  margin-bottom: 10px;
+}
