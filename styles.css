@@ -16,6 +16,7 @@
   border: 1px solid #555;
   width: 100%;
   position: fixed;
+  height: 16px;
 }
 
 li a {
